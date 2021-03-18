@@ -1,37 +1,28 @@
-# EMQ X安全组设定
+# EMQ X 安全组预置配置
 
-#### 介绍
-各大公有云服务器上安装EMQ X Broker时的公有云安全组设置配置文件
+![](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+![](https://img.shields.io/badge/author-HuaQing-1890ff.svg)
 
-#### 软件架构
-软件架构说明
+#### 仓库介绍
+各大公有云服务器上安装EMQ X Broker时,一般需要开放EMQ X Broker默认需要开放的端口，本仓库为各大公有云服务器安全组设置配置文件
 
+#### 支持公有云厂商
+- [阿里云 ECS](https://www.aliyun.com/product/ecs)
+- [腾讯云 CVM](https://cloud.tencent.com/product/cvm)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  登录目标公有云服务器控制台
+2.  在控制台中，进入安全组设置页面
+3.  导入目标安全组配置文件
 
-#### 参与贡献
+#### 捐助
+如果您觉得此项目对您有价值，给作者赏一杯咖啡钱吧，哈哈哈
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+<img src="https://images.gitee.com/uploads/images/2020/1029/190037_de6da034_1777698.jpeg" width='200px' alt="微信"/> 
+<img src="https://images.gitee.com/uploads/images/2020/1029/190024_fbef1306_1777698.jpeg" width='200px' alt="支付宝"/>
 
+## 开源协议
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+MIT LICENSE
