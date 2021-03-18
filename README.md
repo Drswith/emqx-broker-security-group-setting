@@ -2,7 +2,7 @@
  * @Author: Drswith
  * @Date: 2021-03-18 22:34:41
  * @LastEditors: Drswith
- * @LastEditTime: 2021-03-19 00:04:45
+ * @LastEditTime: 2021-03-19 00:05:28
  * @FilePath: /emq-x-security-group-setting/README.md
 -->
 
@@ -42,4 +42,4 @@
 
 #### 开源协议
 
-<img src="https://images.gitee.com/uploads/images/2021/0319/000308_842e887d_1777698.png" width='200px' alt="MIT LICENSE"/>
+<img src="https://images.gitee.com/uploads/images/2021/0319/000308_842e887d_1777698.png" width='80px' alt="MIT LICENSE"/>
