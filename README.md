@@ -37,5 +37,4 @@
 <img src="https://images.gitee.com/uploads/images/2020/1029/190024_fbef1306_1777698.jpeg" width='200px' alt="支付宝"/>
 
 ## 开源协议
-
-MIT LICENSE
+<img src="https://images.gitee.com/uploads/images/2021/0319/000308_842e887d_1777698.png" width='200px' alt="MIT LICENSE"/>
