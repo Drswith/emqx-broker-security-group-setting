@@ -1,0 +1,14 @@
+﻿方向,协议,端口,类型,Source/Target,备注
+egress,all,1-65535,IPv6,::/0,全部协议
+ingress,tcp,8883,IPv4,0.0.0.0/0,EMQ X MQTT/SSL 协议端口
+ingress,icmp,1-65535,IPv4,0.0.0.0/0,PING请求_IPv4
+ingress,tcp,443,IPv4,0.0.0.0/0,HTTPS服务
+ingress,tcp,8083,IPv4,0.0.0.0/0,EMQ X MQTT/WS 协议端口
+ingress,tcp,8084,IPv4,0.0.0.0/0,EMQ X MQTT/WSS 协议端口
+ingress,tcp,22,IPv4,0.0.0.0/0,SSH远程终端
+ingress,tcp,21,IPv4,0.0.0.0/0,FTP文件传输
+ingress,tcp,18083,IPv4,0.0.0.0/0,EMQ X Dashboard 控制台端口
+ingress,tcp,3306,IPv4,0.0.0.0/0,MySQL数据库
+ingress,tcp,80,IPv4,0.0.0.0/0,HTTP服务
+egress,all,1-65535,IPv4,0.0.0.0/0,全部协议
+ingress,tcp,1883,IPv4,0.0.0.0/0,EMQ X MQTT/TCP 协议端口
