@@ -2,7 +2,7 @@
  * @Author: Drswith
  * @Date: 2021-03-18 22:34:41
  * @LastEditors: Drswith
- * @LastEditTime: 2021-03-20 23:09:34
+ * @LastEditTime: 2021-03-20 23:10:41
  * @FilePath: \emq-x-security-group-setting\README.md
 -->
 
@@ -17,10 +17,10 @@
 
 #### 支持公有云厂商
 
-<img src="https://images.gitee.com/uploads/images/2021/0320/230143_dae70485_1777698.png" width='150px' hspace="15" alt="阿里云"/> 
-<img src="https://images.gitee.com/uploads/images/2021/0320/230208_6ad21064_1777698.png" width='150px' hspace="15" alt="腾讯云"/>
-<img src="https://images.gitee.com/uploads/images/2021/0320/230223_918bc10b_1777698.png" width='150px' hspace="15" alt="华为云"/> 
-<img src="https://images.gitee.com/uploads/images/2021/0320/230239_6262bc3a_1777698.png" width='150px' hspace="15" alt="百度云"/>
+<img src="https://images.gitee.com/uploads/images/2021/0320/230143_dae70485_1777698.png" width='110px' hspace="10" alt="阿里云"/> 
+<img src="https://images.gitee.com/uploads/images/2021/0320/230208_6ad21064_1777698.png" width='110px' hspace="10" alt="腾讯云"/>
+<img src="https://images.gitee.com/uploads/images/2021/0320/230223_918bc10b_1777698.png" width='110px' hspace="10" alt="华为云"/> 
+<img src="https://images.gitee.com/uploads/images/2021/0320/230239_6262bc3a_1777698.png" width='110px' hspace="10" alt="百度云"/>
 
 <!-- - [阿里云 ECS](https://www.aliyun.com/product/ecs)
 - [腾讯云 CVM](https://cloud.tencent.com/product/cvm)
