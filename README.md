@@ -17,10 +17,10 @@
 
 #### 支持公有云厂商
 
-- [阿里云 ECS](https://www.aliyun.com/product/ecs)
-- [腾讯云 CVM](https://cloud.tencent.com/product/cvm)
-- [华为云 ECS](https://www.huaweicloud.com/product/ecs.html)
-- [百度云 BCC](https://cloud.baidu.com/product/bcc.html)
+- [阿里云 ECS](https://www.aliyun.com/product/ecs)![阿里云](https://images.gitee.com/uploads/images/2021/0320/230143_dae70485_1777698.png "aliyun.png")
+- [腾讯云 CVM](https://cloud.tencent.com/product/cvm)![腾讯云](https://images.gitee.com/uploads/images/2021/0320/230208_6ad21064_1777698.png "tencentcloud.png")
+- [华为云 ECS](https://www.huaweicloud.com/product/ecs.html)![华为云](https://images.gitee.com/uploads/images/2021/0320/230223_918bc10b_1777698.png "huaweicloud.png")
+- [百度云 BCC](https://cloud.baidu.com/product/bcc.html)![百度云](https://images.gitee.com/uploads/images/2021/0320/230239_6262bc3a_1777698.png "baiduyun.png")
 
 #### 使用说明
 
