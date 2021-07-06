@@ -2,11 +2,11 @@
  * @Author: Drswith
  * @Date: 2021-03-18 22:34:41
  * @LastEditors: Drswith
- * @LastEditTime: 2021-07-06 09:29:43
+ * @LastEditTime: 2021-07-06 09:47:37
  * @FilePath: \emq-x-security-group-setting\README.md
 -->
 
-# EMQ X Broker 安全组预置配置
+# 部署 EMQ X Broker 公有云安全组预置配置
 
 ![](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 ![](https://img.shields.io/badge/author-HuaQing-1890ff.svg)
