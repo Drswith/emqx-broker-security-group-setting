@@ -47,9 +47,6 @@
 
 如果您觉得此项目对您有价值，给作者赏一杯咖啡钱吧~
 
-<img src="https://images.gitee.com/uploads/images/2020/1029/190037_de6da034_1777698.jpeg" width='200px' hspace="15" alt="微信"/> 
-<img src="https://images.gitee.com/uploads/images/2020/1029/190024_fbef1306_1777698.jpeg" width='200px' hspace="15" alt="支付宝"/>
-
 #### 开源协议
 
 <img src="https://images.gitee.com/uploads/images/2021/0319/000308_842e887d_1777698.png" width='80px' alt="MIT LICENSE"/>
